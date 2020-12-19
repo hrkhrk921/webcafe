@@ -1,6 +1,5 @@
 @charset "UTF-8";
 
-
 html{
     font-size: 100%;
 }
@@ -35,4 +34,9 @@ img{
 
 .main-nav a:hover{
     color: #0bd;
+}
+
+.page-header{
+    display: flex;
+    justify-content: space-between;
 }
