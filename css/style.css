@@ -63,3 +63,15 @@ img{
     text-transform: uppercase;
     font-weight: normal;
 }
+
+.button{
+    font-size: 1.375rem;
+    background-color: #0bd;
+    color: #fff;
+    border-radius: 5px;
+    padding: 18px 32px;
+}
+
+.button:hover{
+    background-color: #0090aa;
+}
